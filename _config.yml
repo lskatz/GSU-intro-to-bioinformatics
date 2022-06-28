@@ -5,7 +5,7 @@ description: |
   This is an introduction to bioinformatics
 baseurl: "/GSU-intro-to-bioinformatics" # the subpath of your site, e.g. /blog/
 url: "https://lskatz.github.com" # the base hostname & protocol for your site
-syllabus: "syllabus"
+syllabus: "/GSU-intro-to-bioinformatics/syllabus"
 githubdir: "lskatz/GSU-intro-to-bioinformatics"
 
 # Author/user information
