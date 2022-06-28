@@ -1,8 +1,7 @@
 # Site settings
 title: Course Website
 subtitle: GSU Intro to Bioinformatics
-description: |
-  This is an introduction to bioinformatics
+description:
 baseurl: "/GSU-intro-to-bioinformatics" # the subpath of your site, e.g. /blog/
 url: "https://lskatz.github.com" # the base hostname & protocol for your site
 syllabus: "/GSU-intro-to-bioinformatics/syllabus"
@@ -12,7 +11,7 @@ githubdir: "lskatz/GSU-intro-to-bioinformatics"
 email: lskatz@gmail.com
 twitter_username: lskatz
 github_username:  lskatz
-authorurl: "https://lskatz.github.io"
+authorurl: "https://github.com/lskatz"
 address: |
   Atlanta, GA
 
