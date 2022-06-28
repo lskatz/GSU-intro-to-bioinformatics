@@ -5,8 +5,8 @@ description: |
   This is an introduction to bioinformatics
 baseurl: "/GSU-intro-to-bioinformatics" # the subpath of your site, e.g. /blog/
 url: "https://lskatz.github.com" # the base hostname & protocol for your site
-syllabus: ""
-githubdir: "svmiller/course-website"
+syllabus: "syllabus"
+githubdir: "lskatz/GSU-intro-to-bioinformatics"
 
 # Author/user information
 email: lskatz@gmail.com
@@ -14,7 +14,6 @@ twitter_username: lskatz
 github_username:  lskatz
 authorurl: "https://lskatz.github.io"
 address: |
-  123 fake street
   Atlanta, GA
 
 
