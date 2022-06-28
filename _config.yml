@@ -1,7 +1,7 @@
 # Site settings
 title: Course Website
 subtitle: GSU Intro to Bioinformatics
-description:
+description: " "
 baseurl: "/GSU-intro-to-bioinformatics" # the subpath of your site, e.g. /blog/
 url: "https://lskatz.github.com" # the base hostname & protocol for your site
 syllabus: "/GSU-intro-to-bioinformatics/syllabus"
