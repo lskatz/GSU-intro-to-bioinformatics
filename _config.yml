@@ -1,5 +1,5 @@
 # Site settings
-title: Course Website
+title: GSU Bioinformatics
 subtitle: GSU Intro to Bioinformatics
 description: " "
 baseurl: "/GSU-intro-to-bioinformatics" # the subpath of your site, e.g. /blog/
