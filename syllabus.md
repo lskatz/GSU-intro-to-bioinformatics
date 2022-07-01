@@ -6,7 +6,17 @@ permalink: /syllabus/
 
 # Intro to bioinformatics
 
+Welcome to Intro to bioinformatics! We're going to have a great time this semester exploring bioinformatics together.
+I am a seasoned bioinformatician working at CDC, and I have had my footprint in _Neisseria_, _Vibrio_, _Listeria_, _Escherichia_, _Salmonella_, influenza, SARS-CoV-2, and many other pathogens.
+Working at CDC is my full time job, and it is my honor to work with you after hours in this course.
+I am excited to introduce you to the marvelous world of bioinformatics and infectious diseases.
+
+# Course outcomes
+
 # Week by week
+
+Please note that this conveys a plan for the semester.
+Some deviations may be necessary as the semester progresses.
 
 1. Intro to this course
     * Who is Lee
