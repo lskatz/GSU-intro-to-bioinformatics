@@ -1,4 +1,15 @@
 - title: "Sample .Rmd File"
   filename: Untitled
-  dirname: untitled-lecture
+  dirname: lectures
   tldr: "This is just a sample .rmd file to illustrate the use of the lectures.yml file."
+  date: 2022-08-12
+- title: "Intro to this course"
+  filename: Untitled
+  dirname: lectures
+  tldr: "This is just a sample .rmd file to illustrate the use of the lectures.yml file."
+  date: 2022-08-14
+- title: "Installation of bioinformatics software"
+  filename: Untitled
+  dirname: lectures
+  tldr: "Sequencing instruments"
+  date: 2022-08-19

@@ -25,9 +25,10 @@ permalink: /lectures/
 This page contains link to the lectures I give throughout the semester. Clicking the title of the week's lecture will go to a PDF, embedded in the user's browser, by default. The bottom right icons link to the Github directory for the lecture (<i class="fab fa-github"></i>), the R Markdown document for the lecture (<i class="fab fa-r-project"></i>), and a PDF, embedded on Github, for the lecture (<i class="fas fa-file-pdf"></i>).
 
 <ul id="archive">
-{% for lectures in site.data.lectures %}
+{%- assign lectures_sorted = site.data.lectures | sort: "date" -%}
+{% for lectures in lectures_sorted %}
       <li class="archiveposturl">
-        <span><a href="{{ site.url }}/{{ lectures.dirname }}/{{ lectures.filename }}.pdf">{{ lectures.title }}</a></span><br>
+        <span><a href="{{ site.url }}/{{ lectures.dirname }}/{{ lectures.filename }}.pdf">{{ lectures.title }}</a></span> <i>{{ lectures.date }}</i><br>
 <span class = "postlower">
 <strong>tl;dr:</strong> {{ lectures.tldr }}</span>
 <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right; padding-right: .5em">
