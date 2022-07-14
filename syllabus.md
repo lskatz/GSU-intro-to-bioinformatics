@@ -98,7 +98,11 @@ Students who wish to request accommodation for a disability may do so by registe
 Please note that this conveys a plan for the semester.
 Some deviations may be necessary as the semester progresses.
 
-1. Intro to this course
+<!--
+Week {% increment week %}
+-->
+
+1. **Week {% increment week %}** Intro to this course
     * Who is Lee
     * What is Lee's daytime job?
     * Why is Lee even teaching this course? Need more binfies in public health; paying back to the community
@@ -106,54 +110,55 @@ Some deviations may be necessary as the semester progresses.
        * Each lesson builds on the others and you can get lost
        * Do the workshop
        * Email for questions
+    * Icebreaker: who are you, what is your background (biology, CS, other?), one interesting thing about you
 2. Basics
-   * Installation of software
+   * **Week {% increment week %}** Installation of software
      * Lecture: computer environment
      * Linux is the OS for science
      * Command line is essential - http://korflab.ucdavis.edu/bootcamp.html
      * software was historically hard to install
    * Workshop
      * conda environment
-   * Sequencing instruments
+   * **Week {% increment week %}** Sequencing instruments
       * Sanger 
       * Illumina
       * PacBio, ONT
-   * Sequence formats
+   * **Week {% increment week %}** Sequence formats
       * Lecture: Fasta, GenBank, Fastq
       * Workshop: metrics; convert to fasta
-   * Worldwide databases
+   * **Week {% increment week %}** Worldwide databases
       * INSDC: NCBI, EBI, DDBJ
       * All the others
       * UCSC
       * Flybase
       * etc
-   * Alignment
+   * **Week {% increment week %}** Alignment
       * Lecture: alignment algorithms
       * Workshop: goalign, clustal, mafft
-   * Querying
+   * **Week {% increment week %}** Querying
       * Lecture: blast, mapping
       * Workshop: blast, bwa/bowtie
-   * NCBI 
+   * **Week {% increment week %}** NCBI 
       * Lecture on navigating GenBank, BioSample, and SRA
       * Workshop: download things.  Treasure hunt for a fun workshop?
 3. Characterization
-   * Assembly
+   * **Week {% increment week %}** Assembly
       * Lecture on genome assembly 
          * Compgenomics assembly lectures
       * Workshop: assembly
       * Lecture on long read assembly
       * Workshop: long read assembly
-   * Functional analysis
+   * **Week {% increment week %}** Functional analysis
       * Swissprot, interproscan
       * Workshop: annotate proteins I give you
 4. Evolution
-   * Molecular evolution introduction
+   * **Week {% increment week %}** Molecular evolution introduction
       * Lecture: basic molecular evolution
       * Workshop: ?
-   * Phylogeny
+   * **Week {% increment week %}** Phylogeny
       * Different tools are out there and give some history
       * Workshop: phylogenetic tools. Create a phylogeny
-5. Final exam
+5. **Week {% increment week %}** Final exam
    * Receive genomes from Dr. Katz
    * Characterize the genomes
    * Molecular epidemiology
