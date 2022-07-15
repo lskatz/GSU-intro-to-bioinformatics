@@ -50,7 +50,9 @@ Grades will be determined by attendance in the lectures and by success in the wo
 At this point in your university career, I have to assume you are here because you want to be
 and so I want to encourage you to keep showing up.
 
-* Attendance (50%): Will be captured at 5-10 minutes after class start; if necessary, it will also be captured at the end of class.
+* Attendance (50%)
+   * If attending in person, will be captured 5-10 minutes after class start and again at the end of class
+   * If attending asynchronously, will be captured as answering basic questions about the lecture
 * Workshops (40%): Workshops will be held for approximately half of our sessions. The results of your workshops will be graded. The TA may also take part in grading.
 * Final exam (10%): A final exam will be given and will be open book, open Internet. You may discuss with your classmates.
 
