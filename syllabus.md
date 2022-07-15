@@ -132,6 +132,10 @@ Week {% increment week %}
    * **Week {% increment week %}** Sequence formats
       * Lecture: Fasta, GenBank, Fastq
       * Workshop: metrics; convert to fasta
+   * **Week {% increment week %}** Visualization
+      * Lecture: GFF, BED, VCF formats
+      * Lecture: IGV, Artemis
+      * Workshop: Visualize annotations
    * **Week {% increment week %}** Worldwide databases
       * INSDC: NCBI, EBI, DDBJ
       * All the others
