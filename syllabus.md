@@ -4,6 +4,10 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
+# Table of Contents
+* this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
 # Intro to bioinformatics
 
 Welcome to Intro to bioinformatics! We're going to have a great time this semester exploring bioinformatics together.
@@ -91,7 +95,7 @@ Multiple Submission:  Each submission in this class is to be a new work.  The st
 
 Your constructive assessment of this course plays an indispensable role in shaping education at Georgia State. Upon completing the course, please take time to fill out the online course evaluation.
 
-# Students with Disabilities.
+# Students with Disabilities
 
 Students who wish to request accommodation for a disability may do so by registering with the Office of Disability Services. Students may only be accommodated upon issuance by the Office of Disability Services of a signed Accommodation Plan and are responsible for providing a copy of that plan to instructors of all classes in which accommodations are sought.
 
