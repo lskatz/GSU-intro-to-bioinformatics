@@ -117,14 +117,22 @@ Week {% increment week %}
        * Do the workshop
        * Email for questions
     * Icebreaker: who are you, what is your background (biology, CS, other?), one interesting thing about you
-2. Basics
+2. Computing basics
+   * **Week {% increment week %}** Intro to Linux commands
+     * Lecture: basic linux
+        * Where the GSU computer lab is
+        * How to run the most basic commands
+        * Command line is essential - http://korflab.ucdavis.edu/bootcamp.html
+     * Workshop
+        * POGIL for computing
+        * RPG for learning basic linux commands
    * **Week {% increment week %}** Installation of software
      * Lecture: computer environment
      * Linux is the OS for science
-     * Command line is essential - http://korflab.ucdavis.edu/bootcamp.html
      * software was historically hard to install
    * Workshop
      * conda environment
+3. Other
    * **Week {% increment week %}** Sequencing instruments
       * Sanger 
       * Illumina
@@ -137,21 +145,23 @@ Week {% increment week %}
       * Lecture: IGV, Artemis
       * Workshop: Visualize annotations
    * **Week {% increment week %}** Worldwide databases
-      * INSDC: NCBI, EBI, DDBJ
-      * All the others
-      * UCSC
-      * Flybase
-      * etc
+      * Broad overview of worldwide databases
+         * INSDC: NCBI, EBI, DDBJ
+         * All the others
+         * UCSC (human, etc)
+         * Flybase (fruit fly)
+         * SGD (yeast)
+         * etc
+      **Week {% increment week %}** NCBI 
+         * Lecture on navigating GenBank, BioSample, and SRA
+         * Workshop: download things.  Treasure hunt could be a fun workshop.
    * **Week {% increment week %}** Alignment
       * Lecture: alignment algorithms
       * Workshop: goalign, clustal, mafft
    * **Week {% increment week %}** Querying
       * Lecture: blast, mapping
       * Workshop: blast, bwa/bowtie
-   * **Week {% increment week %}** NCBI 
-      * Lecture on navigating GenBank, BioSample, and SRA
-      * Workshop: download things.  Treasure hunt for a fun workshop?
-3. Characterization
+4. Characterization
    * **Week {% increment week %}** Assembly
       * Lecture on genome assembly 
          * Compgenomics assembly lectures
@@ -161,14 +171,14 @@ Week {% increment week %}
    * **Week {% increment week %}** Functional analysis
       * Swissprot, interproscan
       * Workshop: annotate proteins I give you
-4. Evolution
+5. Evolution
    * **Week {% increment week %}** Molecular evolution introduction
       * Lecture: basic molecular evolution
       * Workshop: ?
    * **Week {% increment week %}** Phylogeny
       * Different tools are out there and give some history
       * Workshop: phylogenetic tools. Create a phylogeny
-5. **Week {% increment week %}** Final exam
+6. **Week {% increment week %}** Final exam
    * Receive genomes from Dr. Katz
    * Characterize the genomes
    * Molecular epidemiology
