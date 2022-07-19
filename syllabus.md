@@ -152,12 +152,15 @@ Week {% increment week %}
          * Flybase (fruit fly)
          * SGD (yeast)
          * etc
-      **Week {% increment week %}** NCBI 
+      * NCBI 
          * Lecture on navigating GenBank, BioSample, and SRA
          * Workshop: download things.  Treasure hunt could be a fun workshop.
    * **Week {% increment week %}** Alignment
       * Lecture: alignment algorithms
-      * Workshop: goalign, clustal, mafft
+      * Workshop: goalign, clustal, mafft, MEGA
+   * **Week {% increment week %}** Phylogeny
+      * Lecture: phylogeny algorithms
+      * Workshop: raxml, iqtree, figtree, MEGA
    * **Week {% increment week %}** Querying
       * Lecture: blast, mapping
       * Workshop: blast, bwa/bowtie
